@@ -1,4 +1,19 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hiroki39&show_icons=true&theme=tokyonight&count_private=true&)
+### My Programming Tools and Languages
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-black?logo=c%2B%2B&style=social)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions%20-%232671E5.svg?&style=flat-square&logo=github%20actions&logoColor=white)
+
+---
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="my Github Stats" src="https://github-readme-stats.vercel.app/api?username=Hiroki39&show_icons=true&theme=tokyonight&count_private=true" />
+
+</details>
 <!--
 **Hiroki39/Hiroki39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
