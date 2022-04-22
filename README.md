@@ -1,21 +1,35 @@
+## Hongyi Zheng's GitHub Profile
+
+I'm Hongyi, a rising senior at New York University.
+
+I graduated from Tsinghua University High School in 2019 and came to New York from Beijing.
+
 ### My Programming Tools and Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=whtie)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-3B98C9?style=flat-square&logo=scikit-learn)
 ![PyTorch](https://img.shields.io/badge/PyTorch-F3F4F7?style=flat-square&logo=PyTorch)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![C](https://img.shields.io/badge/C-black?logo=C&style=flat-square)
-![C++](https://img.shields.io/badge/C++-black?logo=c%2B%2B&style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions%20-%232671E5.svg?&style=flat-square&logo=github%20actions&logoColor=white)
+![Django](https://img.shields.io/badge/Django-124B35?style=flat-square&logo=django&logoColor=4CB6BE)
+![C](https://img.shields.io/badge/C-F3F4F7?logo=C&style=flat-square)
+![C++](https://img.shields.io/badge/C++-F3F4F7?logo=c%2B%2B&style=flat-square&logoColor=00599C)
+![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?logo=R&style=flat-square&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MangoDB](https://img.shields.io/badge/MongoDB-F3F4F7?style=flat-square&logo=mongodb)
+![Git](https://img.shields.io/badge/Git-F3F4F7?style=flat-square&logo=Git)
+
+### Contact Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hongyizheng/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hz2212@nyu.edu)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jason_h.zheng/)
 
 ---
 <details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="my Github Stats" src="https://github-readme-stats.vercel.app/api?username=Hiroki39&show_icons=true&theme=tokyonight&count_private=true" />
+  <summary>&nbsp &#128202; &nbsp Github Stats</summary>
+  </br>
+  <img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Hiroki39&show_icons=true&theme=tokyonight&count_private=true" />
 
 </details>
 <!--
