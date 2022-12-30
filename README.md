@@ -1,6 +1,6 @@
 ## Hongyi Zheng's GitHub Profile
 
-I'm Hongyi, a rising senior at New York University.
+I'm Hongyi, a senior undergraduate at New York University.
 
 I graduated from Tsinghua University High School in 2019 and came to New York from Beijing.
 
