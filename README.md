@@ -2,7 +2,7 @@
 
 I'm Hongyi, a senior undergraduate at New York University.
 
-I graduated from Tsinghua University High School in 2019 and came to New York from Beijing.
+I graduated from Tsinghua University High School in 2019 and came to NYC from Beijing.
 
 ### My Programming Tools and Languages
 
