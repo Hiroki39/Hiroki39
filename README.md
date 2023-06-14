@@ -1,8 +1,8 @@
 ## Hongyi Zheng's GitHub Profile
 
-I'm Hongyi, a senior undergraduate at New York University.
+I'm Hongyi, an NYU 2023 alumni.
 
-I graduated from Tsinghua University High School in 2019 and came to NYC from Beijing.
+I graduated from Tsinghua University High School in 2019 and earn my Bachelor's degree in honors mathematics, computer science and data science in 2023. I will join Akuna Capital as a quantitative strategist this August.
 
 ### My Programming Tools and Languages
 
